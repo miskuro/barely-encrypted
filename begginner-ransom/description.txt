@@ -3,5 +3,7 @@ and to generate a randon key and has a decryption file that wont work unless u k
   and it also uses hashlib to make the input code attempt to get hashed (sha-256) and compare with
   the hashed string variable in the code.
 
-  dont use this on some dumb mf that will actually fall for this shit
+  dont use this on some dumb mf monkey that will actually fall for this shit, if someone actually fall for this their iq must be on the negative value.
+
+
   dont use for unethical stuff UwU ( ˶◕‿◕˶✿ )
