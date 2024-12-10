@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-#the code is "miskuroisgreat"
+#the code is "password"
 #to change the code just make a new file and use hashlib to hash the code u wanna use and copy the hashed code and copy it 
 #to the realCode variable
 
