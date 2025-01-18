@@ -1,9 +1,8 @@
-this is a simple ransom (almost) that uses cryptography fernet to encrypt and decrypt files
-and to generate a randon key and has a decryption file that wont work unless u know the code
+script that uses cryptography fernet to encrypt and decrypt files
+and to generate a randon key anda  decryption file with a passwd
   and it also uses hashlib to make the input code attempt to get hashed (sha-256) and compare with
   the hashed string variable in the code.
 
-  dont use this on some dumb mf monkey that will actually fall for this shit, if someone actually fall for this their iq must be on the negative value.
 
 
-  dont use for unethical stuff UwU ( ˶◕‿◕˶✿ )
+  dont use for unethical stuff 🐓
