@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#ignore the first ligne
 
 import time
 import os
